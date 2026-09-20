@@ -1,0 +1,9 @@
+title: "Renato D. La Torre"
+description: "PhD student, Integrative Biology, UC Berkeley — Expósito-Alonso Lab"
+url: "https://renatodltr.github.io"
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.md

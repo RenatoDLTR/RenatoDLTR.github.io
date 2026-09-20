@@ -1,0 +1,43 @@
+---
+layout: default
+title: Home
+---
+{% assign p = site.data.profile %}
+<div class="hero">
+  <img class="avatar" src="{{ p.avatar | relative_url }}" alt="{{ p.name }}" onerror="this.style.display='none'">
+  <div class="hero-meta">
+    <h1>{{ p.name }}</h1>
+    <p class="subtitle">{{ p.title }} · <a href="{{ p.lab_url }}" target="_blank" rel="noopener">{{ p.lab_name }}</a></p>
+    <p class="contact-line">{{ p.location }}{% for email in p.emails %} · <a href="mailto:{{ email }}">{{ email }}</a>{% endfor %}</p>
+    <div class="hero-links">
+      {% for link in p.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<p class="bio">{{ p.bio }}</p>
+
+<h2>Experience</h2>
+{% for e in site.data.experience %}
+<div class="entry">
+  <div class="when">{{ e.when }}</div>
+  <div class="role">{{ e.role }}</div>
+  <div class="org">{{ e.org }}</div>
+  <p>{{ e.description }}</p>
+</div>
+{% endfor %}
+
+<h2>Education</h2>
+{% for e in site.data.education %}
+<div class="entry">
+  <div class="when">{{ e.when }}</div>
+  <div class="role">{{ e.degree }}</div>
+  <div class="org">{{ e.org }}</div>
+  <p><strong>Thesis:</strong> {{ e.thesis }}
+    {% for link in e.links %}[<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>]{% endfor %}
+  </p>
+  <p><strong>Research:</strong> {{ e.research }}</p>
+</div>
+{% endfor %}

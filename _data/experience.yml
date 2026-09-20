@@ -1,0 +1,17 @@
+- org: "San Marcos University, Lima, Peru"
+  when: "10/2025 – 06/2026"
+  role: "Bioinformatician, Laboratory of Genomics and Bioinformatics for Biodiversity"
+  description: "High-Performance Computing resource management and bioinformatics training."
+
+- org: "Norwegian University of Science and Technology, Trondheim, Norway"
+  when: "06/2024 – 06/2025"
+  role: "Research assistant, Institute of Natural History"
+  description: "Assistance in the laboratory work and bioinformatic analyses for archaeogenomics projects."
+
+- org: "San Marcos University, Lima, Peru"
+  when: "01/2021 – 05/2023"
+  role: "Research assistant, Laboratory of Genomics and Bioinformatics for Biodiversity"
+  description: >
+    Assistance in project writing, laboratory work and bioinformatic analyses for
+    metabarcoding, genomics and population genomics projects. Teaching assistance
+    in Phylogeography, Population Genetics and Bioinformatics.

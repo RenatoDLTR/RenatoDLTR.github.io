@@ -1,0 +1,222 @@
+- title: >
+    Population genomics of the endangered Peruvian algarrobo (Neltuma pallida)
+    reveals low genetic diversity and a recent bottleneck in a protected dry-forest
+    population
+  authors: "La Torre Ramirez RD., Caycho E., Saucedo-Bazalar M., Saldaña CL., Bieker VC., Arbizu CI., Orjeda G."
+  venue: "In press: BMC Genomics"
+  year: 2026
+  doi: "10.1186/s12864-026-13279-5"
+  abstract: >
+    The Pomac Forest Historic Sanctuary (SHBP) in northern Peru protects Equatorial dry
+    forests dominated by Neltuma pallida, a species increasingly threatened by
+    population decline and habitat degradation. This study characterizes the genomic
+    diversity of the SHBP population as a baseline for future monitoring. The
+    population is genetically unstructured, with low inbreeding, average autosomal
+    heterozygosity of 0.19%, and nucleotide diversity of 0.0023. Low genetic diversity
+    is consistent with a recent bottleneck beginning approximately four generations
+    ago. Potentially deleterious variants were also identified. These findings provide
+    reference genomic indicators for monitoring N. pallida and highlight potential
+    effects of recent habitat degradation on its genetic diversity.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/1qjCw4bD-8kpIXL54EzpXLQjCuXhsroVm/view?usp=sharing"
+
+- title: "Archaeogenomic identification of ancient plant and feather remains from Túcume, Peru"
+  authors: "Esteves J., La Torre Ramirez RD., Hernández J., Arana A., Morin-Lagos J., Martin SLF., Capriles JM., Salinas L., Narváez A., Delgado B., Arana C., Martin MD."
+  venue: "Journal of Archaeological Science: Reports, 74, 105979"
+  year: 2026
+  doi: "10.1016/j.jasrep.2026.105979"
+  abstract: >
+    This study evaluated the recovery of ancient DNA (aDNA) from feathers and plant
+    remains at the Túcume Archaeological Complex in northern Peru. A total of 216
+    samples were processed using strict contamination controls, optimized extraction
+    protocols, shallow shotgun sequencing, and metagenomic analysis. Authentic aDNA
+    was successfully recovered, showing fragmentation and deamination patterns typical
+    of ancient molecules, though endogenous content was generally low. Avian DNA was
+    assigned to several orders, while plant DNA corresponded to major angiosperm
+    clades. These results demonstrate the feasibility of archaeogenomic analysis in
+    tropical-arid environments and highlight the need to expand genomic reference
+    databases to improve taxonomic resolution in South American archaeological
+    research.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/19qBL4dILoTfkB80v-1eBAJ8kRT_CPzcZ/view?usp=sharing"
+
+- title: >
+    Exploring the Algarrobo decline in the Pómac forest: Unraveling the Relationship
+    between the Endomicrobiome of Neltuma pallida and Enallodiplosis discordis
+  authors: "Suarez-Silva R., Saucedo-Bazalar M., Ramirez Saenz M., La Torre Ramirez RD., Caycho E., Orjeda G."
+  venue: "Microbial Ecology, 89, 74"
+  year: 2026
+  doi: "10.1007/s00248-026-02711-8"
+  abstract: >
+    Populations of Neltuma pallida (algarrobo) in Peru are declining, primarily due to
+    the pest Enallodiplosis discordis, with symptoms potentially worsened by
+    opportunistic microbes. This study examined the bacterial endomicrobiome of
+    algarrobo branches at different disease stages and the microbiota of E. discordis
+    larvae using ONT 16S rRNA sequencing in the Pómac Forest. Branch samples showed
+    low bacterial diversity and were dominated by host-derived sequences, limiting
+    detection of true endophytes. In contrast, larvae harbored more diverse bacterial
+    communities, with minimal overlap between host and pest microbiota. These findings
+    suggest bacterial communities in branches are unlikely to be the primary drivers
+    of algarrobo decline symptoms.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/1YKrJJqVUgCFbqtfzYOR5r0DbhCsgD9Z0/view?usp=sharing"
+
+- title: "Phylogenetic diversity and endemism of the vascular flora of the páramo ecoregion"
+  authors: "Hossain K., Martin SLF., La Torre Ramirez RD., Zuluaga A., Speed JDM., Martin MD."
+  venue: "Systematic Botany, 51(1), 61-86"
+  year: 2026
+  doi: "10.1007/s00248-026-02711-8"
+  abstract: >
+    The páramo ecoregion is a biodiversity hotspot shaped by complex biogeographical
+    and evolutionary processes. This study used spatial phylogenetic approaches to
+    examine patterns of phylogenetic diversity and endemism across the region's
+    vascular flora. We analyzed 361 equal-area grid cells and occurrence records from
+    567 vascular plant genera, integrating publicly available genetic sequences with
+    new data from Colombian herbarium specimens. The analyses revealed distinct
+    centers of neo- and paleoendemism and widespread phylogenetic clustering across
+    páramo regions. Phylogenetic beta diversity further identified several distinct
+    bioregions with varying evolutionary histories and plant assemblages. These
+    findings highlight priority areas for conservation and improve understanding of
+    páramo biogeography.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/1cn0paKeIEX7KEZlZ2ERNTrld6lZx0OC6"
+
+- title: >
+    Haplotype-resolved chromosome-level genome assemblies of four Diamesa species
+    reveal the genetic basis of cold tolerance and high-altitude adaptations in
+    arctic chironomids
+  authors: "Martin SLF., La Torre R., Danneels B., Tooming-Klunderud A., Skage M., Kollias S., Tørresen OK., Anbaran MF., Stur E., Jakobsen KS., Martin MD., Ekrem T."
+  venue: "Gigascience, 15, giaf160"
+  year: 2025
+  doi: "10.1093/gigascience/giaf160"
+  abstract: >
+    Arctic and alpine insects face extreme cold and hypoxic conditions, yet the
+    genomic basis of their adaptation remains poorly understood. Here, we present the
+    first haplotype-resolved, chromosome-level genomes for four cold-adapted Diamesa
+    midge species, assembled using PacBio HiFi and Hi-C data. Phylogenomic analyses
+    reveal introgression among species and place Diamesinae as sister to most
+    Chironomidae. Comparative genomics across Diptera show extensive gene family
+    contractions related to oxygen transport and metabolism, alongside expansions in
+    histone, immune, and glucose dehydrogenase gene families linked to cold stress
+    tolerance. These results suggest genome condensation and lineage-specific gene
+    family shifts underpin adaptation to extreme cold environments.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/1ggOtgsy63aVxKiObhqLlbGuUv7GcryRo/view?usp=sharing"
+
+- title: >
+    Sedimentary ancient DNA metagenomic analysis provides new insights into farming
+    in central Norway from the Bronze Age to late Medieval period
+  authors: "La Torre R., Kosel P., Bieker VC., Westergaard KB., Mykkeltvedt JL., Yildrim KL., Seiler M., Philippsen B., Macphail RI., Cannell RJS., Halvorsen LS., Lorentzen AB., Sauvage R., Martin MD., Breivik HM., Martin SLF."
+  venue: "Journal of Archaeological Science, 190, 106556"
+  year: 2025
+  doi: "10.1016/j.jas.2026.106556"
+  abstract: >
+    Sedimentary ancient DNA (sedaDNA) offers a powerful approach to reconstruct past
+    biodiversity and environmental change, yet its application to human-driven
+    landscape dynamics remains limited. Here, we use a sedaDNA metagenomic framework
+    to examine land use and environmental change at the Torgårdsletta archaeological
+    site in central Norway from the Bronze Age to the Medieval period. Stratified
+    sediments reveal temporal shifts in plant, animal, and microbial communities
+    associated with land clearance, cultivation, and animal husbandry. Periods of
+    climatic stress, including the AD 536–540 volcanic event, coincide with marked
+    declines in biological diversity and landscape reorganization. These results
+    highlight sedaDNA as a valuable complement to traditional proxies for
+    high-resolution reconstructions of past human–environment interactions.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/1IeSGhwPwE-aeTMLqlPf9h1zksiNEBD8j"
+
+- title: >
+    Lima megacity's influence on aquatic microbial communities in the Rimac River:
+    Dominance over spatial and seasonal variations
+  authors: "Samaniego T., La Torre R., Orjeda G., Ramirez JL."
+  venue: "Microbial Ecology, 88(1), 57"
+  year: 2025
+  doi: "10.1007/s00248-025-02558-5"
+  abstract: >
+    The Rímac River, which supplies nearly 80% of Lima's water, faces severe pollution
+    from domestic, industrial, and mining effluents. Using 16S rRNA metabarcoding, we
+    characterized bacterial communities along the river across seasons and
+    altitudinal zones. Results revealed marked spatial differences: the Metropolitan
+    zone showed reduced microbial diversity and increased pathogenic taxa, while
+    seasonal effects were minor. Betaproteobacteria dominated most samples, and
+    Aliarcobacter cryaerophilus, a fecal contamination indicator, was prevalent
+    downstream. These findings underscore the strong influence of human activity on
+    riverine microbiota and the need for molecular monitoring to guide effective
+    water management in the Rímac watershed.
+  links:
+    - label: "PDF"
+      url: "https://drive.google.com/file/d/1bcDPTtcsKcDuDD9Do_3GPvzfU2XZ4BMC/view?usp=drive_link"
+
+- title: >
+    A chromosome-level genome assembly of the Peruvian Algarrobo (Neltuma pallida)
+    provides insights on its adaptation to its unique ecological niche
+  authors: "La Torre R., Hamilton JP., Saucedo-Bazalar M., Caycho E., Vaillancourt B., Wood JC., Ramirez M., Buell CR., Orjeda G."
+  venue: "G3: Genes, Genomes, Genetics, 15(2), jkae283"
+  year: 2025
+  doi: "10.1093/g3journal/jkae283"
+  abstract: >
+    The dry forests of northern Peru are dominated by Neltuma pallida, a leguminous
+    tree adapted to arid tropical environments but now threatened in its native range.
+    To support conservation and study its adaptive traits, we generated a
+    high-quality chromosome-scale reference genome (403.7 Mb; 14 pseudochromosomes;
+    N50 = 26.2 Mb; GC = 34.3%). The assembly showed 99.2% complete BUSCOs and 51.2%
+    repetitive content, mainly long terminal repeats. We annotated 22,409
+    protein-coding genes forming 24,607 gene models. Comparative analyses revealed
+    rapid evolution in gene families related to disease resistance, transcription
+    factors, and signaling. This genome provides a key resource for understanding
+    adaptation in dry ecosystems.
+  links:
+    - label: "PDF"
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11797065/pdf/jkae283.pdf"
+    - label: "Figshare"
+      url: "https://doi.org/10.6084/m9.figshare.25517770"
+    - label: "GitHub"
+      url: "https://github.com/RenatoLaTorreRamirez/Algarrobo-Genome"
+
+- title: >
+    Assembly, annotation and analysis of the chloroplast genome of the Algarrobo
+    tree Neltuma pallida (subfamily: Caesalpinioideae)
+  authors: "Caycho E., La Torre R., Orjeda G."
+  venue: "BMC Plant Biology, 23(1), 570"
+  year: 2023
+  doi: "10.1186/s12870-023-04581-5"
+  abstract: >
+    Neltuma pallida is a key tree of Peru's Equatorial Dry Forest, vital for both
+    people and ecosystems but currently threatened and understudied genetically. We
+    assembled and analyzed its chloroplast genome (162,381 bp), which displays the
+    typical quadripartite structure and 35.97% GC content. A total of 132 genes were
+    annotated, including 19 duplicates and 22 with introns. Over 800 repetitive
+    elements were identified, notably 142 SSR markers. Phylogenetic analyses grouped
+    N. pallida with other Neltuma species and Prosopis cineraria, revealing high
+    sequence similarity. These genomic resources offer valuable tools for diversity
+    assessment and conservation of N. pallida.
+  links:
+    - label: "PDF"
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10652460/pdf/12870_2023_Article_4581.pdf"
+
+- title: "Survey of lichenized-fungi DNA barcodes in King George Island (Antarctica): An aid to species discovery"
+  authors: "La Torre R., Ramos D., Mejia M., Neyra E., Loarte E., Orjeda G."
+  venue: "Journal of Fungi, 9(5), 552"
+  year: 2023
+  doi: "10.3390/jof9050552"
+  abstract: >
+    DNA barcoding is effective for identifying lichenized fungi where existing
+    diversity is well-represented in databases and taxonomy is robust. However, its
+    use is limited in understudied regions like Antarctica, where genetic diversity is
+    poorly characterized. This exploratory study surveyed lichenized fungi on King
+    George Island using a fungal barcode marker for initial identification. Samples
+    were collected near Admiralty Bay. Most were identified up to the species or genus
+    level with high confidence. Morphological evaluation of samples with novel
+    barcodes led to the identification of unknown Austrolecia, Buellia, and Lecidea
+    species. These results contribute to better representing Antarctic lichen
+    diversity in nucleotide databases and offer a valuable approach for exploratory
+    taxonomic surveys in other understudied regions.
+  links:
+    - label: "PDF"
+      url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10219471/pdf/jof-09-00552.pdf"

@@ -1,0 +1,89 @@
+oral:
+  - venue: "I Peruvian Colloquium of Archaeometry"
+    year: 2025
+    title: "Assessment of the potential of archaeogenomics for studying our past biodiversity and human impact"
+    authors: "La Torre R., Chauca G., Bieker VC., Kosel P., Martin S., Arce S., Rivas-Chamorro M., Orjeda G., Beresford-Jones D., Martin MD."
+    links: []
+
+  - venue: "Science week – Science with the North, UNF, Piura, Peru"
+    year: 2025
+    title: "Advances in the genomics of algarrobo (Neltuma pallida): Generating evidence to understand its diversity"
+    authors: "La Torre R."
+    links:
+      - label: "PDF-ESP"
+        url: "https://drive.google.com/file/d/17XbIXlc9XYkqDPJEBbxX8IkIYdCYNMxz/view?usp=sharing"
+
+  - venue: "VI International Congress of the Peruvian Society of Bioinformatics and Computational Biology, Lima, Peru"
+    year: 2025
+    title: "Generating evidence to understand the Algarrobo (Neltuma pallida) decline: Omic sciences and bioinformatics at the service of conservation"
+    authors: "La Torre R., Orjeda G."
+    links:
+      - label: "PDF"
+        url: "https://drive.google.com/file/d/19ERfKy4Bei-1J_03BJkx7GQpmHA3uonN/view?usp=sharing"
+
+  - venue: "XV Meeting of the Latinoamerican Group of Lichenology, Argentina"
+    year: 2022
+    title: "Standardization of a methodology for DNA extraction and amplification of lichenized fungi from King George Island, Antarctica"
+    authors: "La Torre R., Mejia M., Loarte E., Cotera C., Neyra E., Orjeda G."
+    links:
+      - label: "PDF-ESP"
+        url: "https://drive.google.com/file/d/117yWEoCny_yFe4iMz1QzlVWnP-smi8bC/view?usp=drive_link"
+
+  - venue: "XV Meeting of the Latinoamerican Group of Lichenology, Argentina"
+    year: 2022
+    title: "Evaluation of the identification of lichenized fungi in King George Island, Antarctica, using DNA barcoding"
+    authors: "La Torre R., Mejia M., Loarte E., Cotera C., Neyra E., Orjeda G."
+    links:
+      - label: "PDF-ESP"
+        url: "https://drive.google.com/file/d/1zIRq9wva2KxYcJvvrHT09O_GgqHStf5S/view?usp=drive_link"
+
+  - venue: "I National Congress of Life Sciences and XXVII Scientific Meeting ICBAR, Lima, Peru"
+    year: 2020
+    title: "Detection of viral RNA sequences in transcriptomes of three Prosopis species (Fabaceae) submitted to NCBI"
+    authors: "La Torre R., Rivera A., Lozano R., Orjeda G."
+    links: []
+
+poster:
+  - venue: "VI International Congress of the Peruvian Society of Bioinformatics and Computational Biology, Lima, Peru"
+    year: 2025
+    title: "Genomic effects of the Nazca on the huarango (Neltuma limensis) woodlands: Paleogenomics and population genomics for unveiling past biodiversity"
+    authors: "La Torre R., Bieker VC., Rivas-Chamorro M., Saldana C., Arbizu CI., Chauca G., Kosel P., Martin SL., Arce S., Beresford-Jones D., Orjeda G., Martin MD."
+    links:
+      - label: "PDF-ESP"
+        url: "https://drive.google.com/file/d/1TPnBtMeqwsOSWnDZ0efLbQx7Lj_vHePF/view?usp=sharing"
+
+  - venue: "VI International Congress of the Peruvian Society of Bioinformatics and Computational Biology, Lima, Peru"
+    year: 2025
+    title: "Generating evidence to understand the Algarrobo (Neltuma pallida) decline: Omic sciences and bioinformatics at the service of conservation"
+    authors: "La Torre R., Hamilton JP., Caycho E., Saucedo-Bazalar M., Vaillancourt B., Wood JC., Suarez R., Collins S., Ramirez M., Mayta K., Naupari K., Buell CR., Orjeda G."
+    links: []
+
+  - venue: "Ecological Integration Symposium, College Station, USA"
+    year: 2020
+    title: "Effect of wasp parasitism on the bacterial densities in the Spiroplasma-Drosophila melanogaster symbiosis"
+    authors: "La Torre R., Mateos M."
+    links:
+      - label: "PDF-Abstracts"
+        url: "https://drive.google.com/file/d/19z0JwDDu1LY1Jm0uZbeQ4R80WSAbi4xp/view?usp=sharing"
+
+  - venue: "IV International Scientific Symposium of Biosciences, Lima, Peru"
+    year: 2019
+    title: "In silico identification of Exon-Primmed Intron-Crossing markers in the Pomacea genus"
+    authors: "La Torre R., Solis M., Silvestre T., Ore D."
+    links: []
+
+  - venue: "XXII International Congress of Genetics, Parana, Brazil"
+    year: 2018
+    title: "Family-based association study between variants rs914458 and rs941798 (PTPN1 gene) with diabetes mellitus type 2"
+    authors: "La Torre R., Torres D., Padilla C., Garcia-Quispes W., Calderon J., Paredes M."
+    links:
+      - label: "PDF"
+        url: "https://drive.google.com/file/d/1QWCO_ik-hwgttZaj2Ia-JEm-GrdL9a37/view?usp=sharing"
+
+  - venue: "III International Scientific Symposium of Biosciences, Lima, Peru"
+    year: 2017
+    title: "Primer design of conserved microsatellite markers from Expressed Sequence Tags of taxon Gekkota"
+    authors: "La Torre R., Velasquez A., Ojanama B., Justino S., Ccama S., Toledo G., Ore D."
+    links:
+      - label: "PDF-ESP"
+        url: "https://drive.google.com/file/d/1I3AoqVoPr_cx8xJ1SlRE8MHD3H95dRX_/view?usp=sharing"

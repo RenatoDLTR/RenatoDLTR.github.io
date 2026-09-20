@@ -1,0 +1,20 @@
+---
+layout: default
+title: Resources
+---
+<h1>Resources</h1>
+<p class="lede">Materials that might help others navigating similar applications.</p>
+
+{% for section in site.data.resources %}
+<h2>{{ section.heading }}</h2>
+{% for g in section.groups %}
+<div class="resource-group">
+  <h3>{{ g.subheading }}</h3>
+  <ul>
+    {% for item in g.items %}
+    <li><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.label }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}
+{% endfor %}

@@ -1,0 +1,30 @@
+- org: "University of California, Berkeley, United States"
+  when: "08/2026 – Present"
+  degree: "PhD, Integrative Biology"
+  thesis: "TBD"
+  research: "TBD"
+  links: []
+
+- org: "Norwegian University of Science and Technology, Trondheim, Norway"
+  when: "06/2023 – 06/2025"
+  degree: "Master, Biology — Ecology, Evolution, Behavior and Biosystematics"
+  thesis: "Population genomics and archaeogenomics of Peruvian Algarrobos (Neltuma spp.)"
+  research: >
+    Characterized the populations of a tree species using freshly-collected samples,
+    herbarium specimens, and archaeological remains. Estimated genetic distances and
+    compared genetic diversity through space and time. Detected genomic signatures of
+    selection.
+  links:
+    - label: "PDF"
+      url: "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3202537"
+
+- org: "San Marcos University, Lima, Peru"
+  when: "03/2015 – 12/2019"
+  degree: "Bachelor, Genetics and Biotechnology"
+  thesis: "Metacommunity barcoding of Antarctic Lichens"
+  research: >
+    Explored the use of nucleotide databases for lichen species identification in
+    Antarctica and discovered novel barcodes.
+  links:
+    - label: "PDF-ESP"
+      url: "https://cybertesis.unmsm.edu.pe/backend/api/core/bitstreams/87fd6bf1-930f-49bf-bd6a-c5f5ea6313b5/content"

@@ -1,0 +1,12 @@
+---
+layout: default
+title: Awards
+---
+<h1>Awards</h1>
+<p class="lede">Fellowships, scholarships, and grants, in reverse chronological order.</p>
+
+<ul class="award-list">
+  {% for a in site.data.awards %}
+  <li><span>{{ a.text }}</span><span class="award-year">{{ a.year }}</span></li>
+  {% endfor %}
+</ul>

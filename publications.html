@@ -1,0 +1,44 @@
+---
+layout: default
+title: Publications
+---
+<h1>Publications</h1>
+<p class="lede">Peer-reviewed articles, in reverse chronological order, followed by conference presentations.</p>
+
+<ul class="pub-list">
+  {% for pub in site.data.publications %}
+  <li class="pub">
+    <div class="pub-body">
+      <p class="pub-title">{{ pub.title }}</p>
+      <p class="pub-meta">{{ pub.authors }}<br>{{ pub.venue }} ({{ pub.year }}) · doi: {{ pub.doi }}</p>
+      <p class="pub-abstract">{{ pub.abstract }}</p>
+      <p class="pub-links">
+        {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
+      </p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Presentations</h2>
+<h3>Oral</h3>
+<ul class="talk-list">
+  {% for t in site.data.presentations.oral %}
+  <li>
+    <span class="talk-venue">{{ t.venue }} ({{ t.year }}).</span>
+    "{{ t.title }}". {{ t.authors }}
+    {% for link in t.links %}[<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>]{% endfor %}
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>Poster</h3>
+<ul class="talk-list">
+  {% for t in site.data.presentations.poster %}
+  <li>
+    <span class="talk-venue">{{ t.venue }} ({{ t.year }}).</span>
+    "{{ t.title }}". {{ t.authors }}
+    {% for link in t.links %}[<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>]{% endfor %}
+  </li>
+  {% endfor %}
+</ul>

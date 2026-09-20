@@ -1,0 +1,16 @@
+<header class="site">
+  <div class="nav-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">Renato D. La Torre</a>
+    <nav class="links">
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+      <a href="{{ '/publications.html' | relative_url }}" {% if page.url == '/publications.html' %}class="active"{% endif %}>Publications</a>
+      <a href="{{ '/awards.html' | relative_url }}" {% if page.url == '/awards.html' %}class="active"{% endif %}>Awards</a>
+      <a href="{{ '/photos.html' | relative_url }}" {% if page.url == '/photos.html' %}class="active"{% endif %}>Photos</a>
+      <a href="{{ '/resources.html' | relative_url }}" {% if page.url == '/resources.html' %}class="active"{% endif %}>Resources</a>
+      {% for link in site.data.profile.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+      {% endfor %}
+      <button id="theme-toggle" class="theme-toggle" type="button">Dark mode</button>
+    </nav>
+  </div>
+</header>

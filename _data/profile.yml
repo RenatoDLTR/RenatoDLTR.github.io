@@ -1,0 +1,26 @@
+name: "Renato D. La Torre"
+title: "MSc., Ph.D. student"
+lab_name: "MOILAB, Integrative Biology, UC Berkeley"
+lab_url: "https://www.moisesexpositoalonso.org/"
+location: "Berkeley, United States"
+emails:
+  - "daniel010597@gmail.com"
+  - "renato_latorre@berkeley.edu"
+avatar: "/assets/img/profile.jpg"
+bio: >
+  Hello! Welcome to my page. I'm Renato La Torre, a Ph.D. student in the Integrative
+  Biology program at University of California, Berkeley. I am passionate in
+  characterizing biodiversity through space and time, and understanding the processes
+  behind the shaping of their genomes. I have expertise in the application of novel
+  molecular techniques such as environmental and ancient DNA. By looking into species'
+  past, I aim to contribute to their conservation in the future. Feel free to explore
+  my page to learn more about my work. Please, do not hesitate to reach out to me 😀
+links:
+  - label: "ORCID"
+    url: "https://orcid.org/0000-0001-8900-2085"
+  - label: "GitHub"
+    url: "https://github.com/RenatoLaTorreRamirez/Algarrobo-Genome"
+  - label: "CV"
+    url: "https://drive.google.com/file/d/10XK1SnhVU3Fvjo6KUB28hp3_ijOVga6H/view?usp=drive_link"
+  - label: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=O8EJIcUAAAAJ"

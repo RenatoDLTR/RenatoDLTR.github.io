@@ -1,0 +1,20 @@
+---
+layout: default
+title: Photos
+---
+<h1>Photos</h1>
+<p class="lede">Field and lab photos from ongoing and past projects.</p>
+
+{% for group in site.data.photos %}
+<div class="photo-project">
+  <h2>{{ group.project }}</h2>
+  <div class="photo-grid">
+    {% for photo in group.photos %}
+    <figure class="photo-card">
+      <img src="{{ photo.src }}" alt="{{ photo.caption | strip_html }}" loading="lazy">
+      <figcaption>{{ photo.caption }}</figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
