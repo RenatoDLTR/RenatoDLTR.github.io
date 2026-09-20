@@ -6,6 +6,7 @@
   venue: "In press: BMC Genomics"
   year: 2026
   doi: "10.1186/s12864-026-13279-5"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     The Pomac Forest Historic Sanctuary (SHBP) in northern Peru protects Equatorial dry
     forests dominated by Neltuma pallida, a species increasingly threatened by
@@ -19,13 +20,14 @@
     effects of recent habitat degradation on its genetic diversity.
   links:
     - label: "PDF"
-      url: "https://drive.google.com/file/d/1qjCw4bD-8kpIXL54EzpXLQjCuXhsroVm/view?usp=sharing"
+      url: "/assets/pdfs/pub-algarrobo-population-genomics-2026.pdf"
 
 - title: "Archaeogenomic identification of ancient plant and feather remains from Túcume, Peru"
   authors: "Esteves J., La Torre Ramirez RD., Hernández J., Arana A., Morin-Lagos J., Martin SLF., Capriles JM., Salinas L., Narváez A., Delgado B., Arana C., Martin MD."
   venue: "Journal of Archaeological Science: Reports, 74, 105979"
   year: 2026
   doi: "10.1016/j.jasrep.2026.105979"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     This study evaluated the recovery of ancient DNA (aDNA) from feathers and plant
     remains at the Túcume Archaeological Complex in northern Peru. A total of 216
@@ -40,7 +42,7 @@
     research.
   links:
     - label: "PDF"
-      url: "https://drive.google.com/file/d/19qBL4dILoTfkB80v-1eBAJ8kRT_CPzcZ/view?usp=sharing"
+      url: "/assets/pdfs/pub-tucume-archaeogenomics-2026.pdf"
 
 - title: >
     Exploring the Algarrobo decline in the Pómac forest: Unraveling the Relationship
@@ -49,6 +51,7 @@
   venue: "Microbial Ecology, 89, 74"
   year: 2026
   doi: "10.1007/s00248-026-02711-8"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     Populations of Neltuma pallida (algarrobo) in Peru are declining, primarily due to
     the pest Enallodiplosis discordis, with symptoms potentially worsened by
@@ -62,13 +65,14 @@
     of algarrobo decline symptoms.
   links:
     - label: "PDF"
-      url: "https://drive.google.com/file/d/1YKrJJqVUgCFbqtfzYOR5r0DbhCsgD9Z0/view?usp=sharing"
+      url: "/assets/pdfs/pub-algarrobo-endomicrobiome-2026.pdf"
 
 - title: "Phylogenetic diversity and endemism of the vascular flora of the páramo ecoregion"
   authors: "Hossain K., Martin SLF., La Torre Ramirez RD., Zuluaga A., Speed JDM., Martin MD."
   venue: "Systematic Botany, 51(1), 61-86"
   year: 2026
   doi: "10.1007/s00248-026-02711-8"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     The páramo ecoregion is a biodiversity hotspot shaped by complex biogeographical
     and evolutionary processes. This study used spatial phylogenetic approaches to
@@ -83,7 +87,7 @@
     páramo biogeography.
   links:
     - label: "PDF"
-      url: "https://drive.google.com/file/d/1cn0paKeIEX7KEZlZ2ERNTrld6lZx0OC6"
+      url: "/assets/pdfs/pub-paramo-phylogenetic-diversity-2026.pdf"
 
 - title: >
     Haplotype-resolved chromosome-level genome assemblies of four Diamesa species
@@ -93,6 +97,7 @@
   venue: "Gigascience, 15, giaf160"
   year: 2025
   doi: "10.1093/gigascience/giaf160"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     Arctic and alpine insects face extreme cold and hypoxic conditions, yet the
     genomic basis of their adaptation remains poorly understood. Here, we present the
@@ -106,7 +111,7 @@
     family shifts underpin adaptation to extreme cold environments.
   links:
     - label: "PDF"
-      url: "https://drive.google.com/file/d/1ggOtgsy63aVxKiObhqLlbGuUv7GcryRo/view?usp=sharing"
+      url: "/assets/pdfs/pub-diamesa-genome-2025.pdf"
 
 - title: >
     Sedimentary ancient DNA metagenomic analysis provides new insights into farming
@@ -115,6 +120,7 @@
   venue: "Journal of Archaeological Science, 190, 106556"
   year: 2025
   doi: "10.1016/j.jas.2026.106556"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     Sedimentary ancient DNA (sedaDNA) offers a powerful approach to reconstruct past
     biodiversity and environmental change, yet its application to human-driven
@@ -138,6 +144,7 @@
   venue: "Microbial Ecology, 88(1), 57"
   year: 2025
   doi: "10.1007/s00248-025-02558-5"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     The Rímac River, which supplies nearly 80% of Lima's water, faces severe pollution
     from domestic, industrial, and mining effluents. Using 16S rRNA metabarcoding, we
@@ -151,7 +158,7 @@
     water management in the Rímac watershed.
   links:
     - label: "PDF"
-      url: "https://drive.google.com/file/d/1bcDPTtcsKcDuDD9Do_3GPvzfU2XZ4BMC/view?usp=drive_link"
+      url: "/assets/pdfs/pub-rimac-river-microbiome-2025.pdf"
 
 - title: >
     A chromosome-level genome assembly of the Peruvian Algarrobo (Neltuma pallida)
@@ -160,6 +167,7 @@
   venue: "G3: Genes, Genomes, Genetics, 15(2), jkae283"
   year: 2025
   doi: "10.1093/g3journal/jkae283"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     The dry forests of northern Peru are dominated by Neltuma pallida, a leguminous
     tree adapted to arid tropical environments but now threatened in its native range.
@@ -186,6 +194,7 @@
   venue: "BMC Plant Biology, 23(1), 570"
   year: 2023
   doi: "10.1186/s12870-023-04581-5"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     Neltuma pallida is a key tree of Peru's Equatorial Dry Forest, vital for both
     people and ecosystems but currently threatened and understudied genetically. We
@@ -205,6 +214,7 @@
   venue: "Journal of Fungi, 9(5), 552"
   year: 2023
   doi: "10.3390/jof9050552"
+  image: "/assets/img/placeholder-photo.svg"
   abstract: >
     DNA barcoding is effective for identifying lichenized fungi where existing
     diversity is well-represented in databases and taxonomy is robust. However, its

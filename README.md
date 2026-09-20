@@ -25,14 +25,17 @@ To update content (new publication, new award, edited bio, etc.), edit the match
 
 ## Known follow-ups
 
-- **Profile photo**: `assets/img/profile.jpg` is referenced but not included yet — add an
-  image at that path (or update `_data/profile.yml`'s `avatar` field to point elsewhere).
-- **Photos page**: images are currently hot-linked from the original Google Sites CDN
-  (`_data/photos.yml`). This works for now but isn't durable long-term — worth migrating
-  to files under `assets/img/` in this repo eventually.
+- **Photos are placeholders**: `assets/img/placeholder-avatar.svg` and
+  `assets/img/placeholder-photo.svg` are used everywhere a real photo belongs (profile,
+  publication figures, experience/education, the photos gallery). Once real image files
+  are provided, drop them into `assets/img/` and update the `image:`/`avatar:`/`src:`
+  fields in the matching `_data/*.yml` file to point at them.
+- **PDFs are hosted locally now**: publication PDFs, presentation/poster PDFs, resource
+  letters, and the CV all live under `assets/pdfs/` and `assets/cv.pdf` — no longer
+  dependent on Google Drive share links staying valid/public. Two items (the sedaDNA
+  Norway paper and the Piura talk) still link out to their original Drive URLs because
+  the download kept failing; retry later if you want them local too.
 - **Privacy**: this repo and the published site are fully public. Any photo added to
   `_data/photos.yml` / `assets/img/` is visible to anyone with the URL. Keep private
   photos out of this repo entirely (e.g. in a separate private album) and only add ones
   that are OK to be public.
-- **CV**: currently links out to the existing Google Drive PDF. Can be replaced with a
-  PDF committed directly to this repo (e.g. `assets/cv.pdf`) if preferred.

@@ -179,10 +179,28 @@ h3 { font-size: 1.05rem; margin: 0 0 4px; }
 
 /* ---------- Timeline (experience / education) ---------- */
 .entry {
-  padding: 14px 0;
+  padding: 18px 0;
   border-bottom: 1px solid var(--border);
 }
 .entry:last-child { border-bottom: none; }
+
+.entry.entry-media {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+
+.entry-thumb {
+  width: 96px;
+  height: 96px;
+  border-radius: 10px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+}
+
+.entry-body { flex: 1; min-width: 0; }
 
 .entry .when {
   color: var(--text-muted);
@@ -206,12 +224,13 @@ h3 { font-size: 1.05rem; margin: 0 0 4px; }
 .pub:last-child { border-bottom: none; }
 
 .pub img.thumb {
-  width: 84px;
-  height: 84px;
-  border-radius: 8px;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
   object-fit: cover;
   flex-shrink: 0;
   border: 1px solid var(--border);
+  background: var(--bg-alt);
 }
 
 .pub-body { min-width: 0; }
@@ -316,4 +335,6 @@ footer.site {
   h1 { font-size: 1.6rem; }
   .pub { flex-direction: column; }
   .pub img.thumb { width: 100%; height: 160px; }
+  .entry.entry-media { flex-direction: column; align-items: center; text-align: center; }
+  .entry-thumb { width: 100%; height: 140px; }
 }

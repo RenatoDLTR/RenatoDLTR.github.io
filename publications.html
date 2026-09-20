@@ -8,6 +8,7 @@ title: Publications
 <ul class="pub-list">
   {% for pub in site.data.publications %}
   <li class="pub">
+    <img class="thumb" src="{{ pub.image | relative_url }}" alt="" loading="lazy">
     <div class="pub-body">
       <p class="pub-title">{{ pub.title }}</p>
       <p class="pub-meta">{{ pub.authors }}<br>{{ pub.venue }} ({{ pub.year }}) · doi: {{ pub.doi }}</p>

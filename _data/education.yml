@@ -1,5 +1,6 @@
 - org: "University of California, Berkeley, United States"
   when: "08/2026 – Present"
+  image: "/assets/img/placeholder-photo.svg"
   degree: "PhD, Integrative Biology"
   thesis: "TBD"
   research: "TBD"
@@ -7,6 +8,7 @@
 
 - org: "Norwegian University of Science and Technology, Trondheim, Norway"
   when: "06/2023 – 06/2025"
+  image: "/assets/img/placeholder-photo.svg"
   degree: "Master, Biology — Ecology, Evolution, Behavior and Biosystematics"
   thesis: "Population genomics and archaeogenomics of Peruvian Algarrobos (Neltuma spp.)"
   research: >
@@ -20,6 +22,7 @@
 
 - org: "San Marcos University, Lima, Peru"
   when: "03/2015 – 12/2019"
+  image: "/assets/img/placeholder-photo.svg"
   degree: "Bachelor, Genetics and Biotechnology"
   thesis: "Metacommunity barcoding of Antarctic Lichens"
   research: >

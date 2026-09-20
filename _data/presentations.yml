@@ -19,7 +19,7 @@ oral:
     authors: "La Torre R., Orjeda G."
     links:
       - label: "PDF"
-        url: "https://drive.google.com/file/d/19ERfKy4Bei-1J_03BJkx7GQpmHA3uonN/view?usp=sharing"
+        url: "/assets/pdfs/talk-algarrobo-decline-bioinformatics-2025.pdf"
 
   - venue: "XV Meeting of the Latinoamerican Group of Lichenology, Argentina"
     year: 2022
@@ -27,7 +27,7 @@ oral:
     authors: "La Torre R., Mejia M., Loarte E., Cotera C., Neyra E., Orjeda G."
     links:
       - label: "PDF-ESP"
-        url: "https://drive.google.com/file/d/117yWEoCny_yFe4iMz1QzlVWnP-smi8bC/view?usp=drive_link"
+        url: "/assets/pdfs/talk-lichenology-dna-extraction-2022.pdf"
 
   - venue: "XV Meeting of the Latinoamerican Group of Lichenology, Argentina"
     year: 2022
@@ -35,7 +35,7 @@ oral:
     authors: "La Torre R., Mejia M., Loarte E., Cotera C., Neyra E., Orjeda G."
     links:
       - label: "PDF-ESP"
-        url: "https://drive.google.com/file/d/1zIRq9wva2KxYcJvvrHT09O_GgqHStf5S/view?usp=drive_link"
+        url: "/assets/pdfs/talk-lichenology-dna-barcoding-2022.pdf"
 
   - venue: "I National Congress of Life Sciences and XXVII Scientific Meeting ICBAR, Lima, Peru"
     year: 2020
@@ -50,7 +50,7 @@ poster:
     authors: "La Torre R., Bieker VC., Rivas-Chamorro M., Saldana C., Arbizu CI., Chauca G., Kosel P., Martin SL., Arce S., Beresford-Jones D., Orjeda G., Martin MD."
     links:
       - label: "PDF-ESP"
-        url: "https://drive.google.com/file/d/1TPnBtMeqwsOSWnDZ0efLbQx7Lj_vHePF/view?usp=sharing"
+        url: "/assets/pdfs/poster-huarango-nazca-paleogenomics-2025.pdf"
 
   - venue: "VI International Congress of the Peruvian Society of Bioinformatics and Computational Biology, Lima, Peru"
     year: 2025
@@ -64,7 +64,7 @@ poster:
     authors: "La Torre R., Mateos M."
     links:
       - label: "PDF-Abstracts"
-        url: "https://drive.google.com/file/d/19z0JwDDu1LY1Jm0uZbeQ4R80WSAbi4xp/view?usp=sharing"
+        url: "/assets/pdfs/poster-wasp-parasitism-spiroplasma-2020.pdf"
 
   - venue: "IV International Scientific Symposium of Biosciences, Lima, Peru"
     year: 2019
@@ -78,7 +78,7 @@ poster:
     authors: "La Torre R., Torres D., Padilla C., Garcia-Quispes W., Calderon J., Paredes M."
     links:
       - label: "PDF"
-        url: "https://drive.google.com/file/d/1QWCO_ik-hwgttZaj2Ia-JEm-GrdL9a37/view?usp=sharing"
+        url: "/assets/pdfs/poster-ptpn1-diabetes-association-2018.pdf"
 
   - venue: "III International Scientific Symposium of Biosciences, Lima, Peru"
     year: 2017
@@ -86,4 +86,4 @@ poster:
     authors: "La Torre R., Velasquez A., Ojanama B., Justino S., Ccama S., Toledo G., Ore D."
     links:
       - label: "PDF-ESP"
-        url: "https://drive.google.com/file/d/1I3AoqVoPr_cx8xJ1SlRE8MHD3H95dRX_/view?usp=sharing"
+        url: "/assets/pdfs/poster-gekkota-microsatellite-markers-2017.pdf"

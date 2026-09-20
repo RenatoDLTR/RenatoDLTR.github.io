@@ -6,7 +6,7 @@ location: "Berkeley, United States"
 emails:
   - "daniel010597@gmail.com"
   - "renato_latorre@berkeley.edu"
-avatar: "/assets/img/profile.jpg"
+avatar: "/assets/img/placeholder-avatar.svg"
 bio: >
   Hello! Welcome to my page. I'm Renato La Torre, a Ph.D. student in the Integrative
   Biology program at University of California, Berkeley. I am passionate in
@@ -21,6 +21,6 @@ links:
   - label: "GitHub"
     url: "https://github.com/RenatoLaTorreRamirez/Algarrobo-Genome"
   - label: "CV"
-    url: "https://drive.google.com/file/d/10XK1SnhVU3Fvjo6KUB28hp3_ijOVga6H/view?usp=drive_link"
+    url: "/assets/cv.pdf"
   - label: "Google Scholar"
     url: "https://scholar.google.com/citations?user=O8EJIcUAAAAJ"

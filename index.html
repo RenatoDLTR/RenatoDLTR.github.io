@@ -21,23 +21,29 @@ title: Home
 
 <h2>Experience</h2>
 {% for e in site.data.experience %}
-<div class="entry">
-  <div class="when">{{ e.when }}</div>
-  <div class="role">{{ e.role }}</div>
-  <div class="org">{{ e.org }}</div>
-  <p>{{ e.description }}</p>
+<div class="entry entry-media">
+  <img class="entry-thumb" src="{{ e.image | relative_url }}" alt="" loading="lazy">
+  <div class="entry-body">
+    <div class="when">{{ e.when }}</div>
+    <div class="role">{{ e.role }}</div>
+    <div class="org">{{ e.org }}</div>
+    <p>{{ e.description }}</p>
+  </div>
 </div>
 {% endfor %}
 
 <h2>Education</h2>
 {% for e in site.data.education %}
-<div class="entry">
-  <div class="when">{{ e.when }}</div>
-  <div class="role">{{ e.degree }}</div>
-  <div class="org">{{ e.org }}</div>
-  <p><strong>Thesis:</strong> {{ e.thesis }}
-    {% for link in e.links %}[<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>]{% endfor %}
-  </p>
-  <p><strong>Research:</strong> {{ e.research }}</p>
+<div class="entry entry-media">
+  <img class="entry-thumb" src="{{ e.image | relative_url }}" alt="" loading="lazy">
+  <div class="entry-body">
+    <div class="when">{{ e.when }}</div>
+    <div class="role">{{ e.degree }}</div>
+    <div class="org">{{ e.org }}</div>
+    <p><strong>Thesis:</strong> {{ e.thesis }}
+      {% for link in e.links %}[<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>]{% endfor %}
+    </p>
+    <p><strong>Research:</strong> {{ e.research }}</p>
+  </div>
 </div>
 {% endfor %}
